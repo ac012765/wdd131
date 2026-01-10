@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=STIX+Two+Text:ital,wght@0,400..700;1,400..700&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+#content {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1, h3 {
+    text-align: center;
+    font-family: Tinos, Helvetica, Georgia;
+}
+h3 {
+    color: rgb(17, 150, 233);
+    margin-bottom: -8px;
+    font-size: 15px;
+}
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 10%;
+    max-height: 10%;
+    padding-top: 25px;
+}
+hr {
+    max-width: 60%;
+    border: 1px solid rgba(228, 228, 228, 0.9);
+}
+p, ol {
+    max-width: 45%;
+    margin: 0 auto;
+    font-family: "STIX Two Text", Helvetica, Georgia;
+}
+.statement {
+    padding: 25px;
+}
+.list-intro {
+    padding-bottom: 10px;
+    font-style: italic;
+}
+ol {
+    padding-left: 68px;
+}
+li {
+    padding-top: 20px;
+}
